@@ -1,4 +1,4 @@
-# Unified One-Step at Scale: Linear-Time Ensemble Clustering with Soft Balancing
+# Mismatch-Free One-Step at Scale: Linear-Time Ensemble Clustering with Soft Balancing
 
 You can directly clone this repo and run `demo.m`.
 > Notes:
